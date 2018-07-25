@@ -1,0 +1,26 @@
+
+2018-07-25 18:18:14,391 test.py 24 debug
+2018-07-25 18:18:14,391 test.py 25 info
+2018-07-25 18:18:14,391 test.py 26 warring
+2018-07-25 18:18:14,391 test.py 27 erro
+2018-07-25 18:18:14,391 test.py 28 critical
+2018-07-25 18:18:28,986 test.py 24 debug
+2018-07-25 18:18:28,986 test.py 25 info
+2018-07-25 18:18:28,986 test.py 26 warring
+2018-07-25 18:18:28,986 test.py 27 erro
+2018-07-25 18:18:28,986 test.py 28 critical
+2018-07-25 18:18:47,332 test.py 24 debug
+
+2018-07-25 18:18:47,332 test.py 25 info
+
+2018-07-25 18:18:47,332 test.py 26 warring
+
+2018-07-25 18:18:47,332 test.py 27 erro
+
+2018-07-25 18:18:47,332 test.py 28 critical
+
+2018-07-25 18:19:34,080 test.py 24 debug
+2018-07-25 18:19:34,080 test.py 25 info
+2018-07-25 18:19:34,081 test.py 26 warring
+2018-07-25 18:19:34,081 test.py 27 erro
+2018-07-25 18:19:34,081 test.py 28 critical
