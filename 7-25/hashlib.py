@@ -1,5 +1,3 @@
-import hashlib
-
 obj = hashlib.md5("sfdsg".encode("utf8"))   #加盐加密
 obj3 = hashlib.sha256("sfdsg".encode("utf8"))   #加盐加密
 obj1 = hashlib.md5("sfdsg".encode("utf8"))

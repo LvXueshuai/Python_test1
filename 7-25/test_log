@@ -26,3 +26,13 @@
 2018-07-25 19:37:40,382 test.py 39 warring
 2018-07-25 19:37:40,382 test.py 40 erro
 2018-07-25 19:37:40,383 test.py 41 critical
+2018-07-26 14:16:52,355 test.py 37 debug
+2018-07-26 14:16:52,355 test.py 38 info
+2018-07-26 14:16:52,355 test.py 39 warring
+2018-07-26 14:16:52,355 test.py 40 erro
+2018-07-26 14:16:52,356 test.py 41 critical
+2018-07-26 14:16:56,824 test.py 37 debug
+2018-07-26 14:16:56,824 test.py 38 info
+2018-07-26 14:16:56,824 test.py 39 warring
+2018-07-26 14:16:56,824 test.py 40 erro
+2018-07-26 14:16:56,825 test.py 41 criticalaaa
