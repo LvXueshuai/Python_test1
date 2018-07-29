@@ -29,6 +29,6 @@ class Foo2:
         print('getattribute')
         raise AttributeError('ERROR')
 
-f2 = Foo2(10)
+f2 = Foo2(10)-
 f2.x
 
