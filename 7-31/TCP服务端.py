@@ -1,8 +1,9 @@
+
 import socket
 
 ip_port = ('172.24.36.5',8000)
 back_log = 5
-buffer_size = 1021
+buffer_size = 1024
 
 phone = socket.socket(socket.AF_INET,socket.SOCK_STREAM)#网络通信基于TCP  流式链接
 # AF_INET代表基于网络类型的套接字   SOCK_STREAM代表TCP协议
