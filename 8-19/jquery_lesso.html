@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div>hello</div>
+
+<a href="">click</a>
+
+<p id="p1" alex="sb">pppp</p>
+<p id="p2" alex="sb">pppp</p>
+<div class="outer">outer
+    <div class="inner">
+        inner
+        <p>inner p</p>
+    </div>
+    <p>alex</p>
+</div>
+<div class="outer2">Yuan</div>
+<p>xialv</p>
+
+<ul>
+    <li>1111</li>
+    <li>2222</li>
+    <li>3333</li>
+    <li>4444</li>
+    <li>4444</li>
+    <li>4444</li>
+    <li>4444</li>
+</ul>
+
+<input type="text">
+<input type="checkbox">
+<input type="submit">
+
+<script src="jquery-3.3.1.min.js"></script>
+<script>
+    //基本选择器
+    //$("div").css("color","red")
+    //$("*").css("color","red")
+    //$("#p1").css("color","red")
+
+    //$(".outer").css("color","red")
+
+    // $(".inner,p,div").css("color","red")
+
+
+    //层级选择器
+
+    //$(".outer p").css("color","red")   //所有后代
+    //$(".outer>p").css("color","red")   //子代
+    //$(".outer+p").css("color","red")   //兄弟标签（向下）必须紧挨
+    //$(".outer~p").css("color","red")   //兄弟标签（向下）不必紧挨
+
+    //基本筛选器
+
+    //$("li:first").css("color","red")  //筛选第一个li标签
+   // $("li:eq(1)").css("color","red")  //筛选第二个li标签（0开始）
+    //$("li").eq(2).css("color","red");
+    //$("li:even").css("color","red")   //奇数行
+    //$("li:odd").css("color","red")    //偶数行
+    //$("li:gt(2)").css("color","red")  //从第三个（不包括）开始以后的
+    //$("li:lt(2)").css("color","red")  //从第三个（不包括）开始之前的
+
+    //属性选择器
+    //$("[alex='sb'][id='p1']").css("color","red")
+
+    //表单选择器
+     //$("[type='text']").css("width","200px")
+     //$(":text").css("width","400px")  //简写形式，仅表单可以
+
+
+</script>
+</body>
+</html>
